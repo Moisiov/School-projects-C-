@@ -1,0 +1,1 @@
+C++ project using Qt gui tools. Had no time to create ai but user interface and game functionality works.
